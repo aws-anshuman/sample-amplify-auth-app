@@ -1,0 +1,1 @@
+# sample-amplify-auth-app
